@@ -1,0 +1,22 @@
+.font_family {
+  font-family: Georgia, serif;
+}
+.font_size {
+  font-family: Georgia, serif;
+  font-size: 3.125em;
+}
+.font_style_normal {
+  font-family: Georgia, serif;
+  font-style: normal;
+}
+.font_style_italic {
+  font-family: Georgia, serif;
+  font-style: italic;
+}
+
+.small_caps {
+  font-variant: small-caps;
+}
+.font_weigth {
+  font-weight: bold;
+}
